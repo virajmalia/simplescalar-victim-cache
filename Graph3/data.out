@@ -1,0 +1,6 @@
+sim_dc1.out,ul2.accesses,12293701,totalnumberofaccesses
+sim_vc1.out,ul2.accesses,12062992,totalnumberofaccesses
+sim_vc2.out,ul2.accesses,11915651,totalnumberofaccesses
+sim_vc4.out,ul2.accesses,11635226,totalnumberofaccesses
+sim_vc8.out,ul2.accesses,11322437,totalnumberofaccesses
+sim_vc16.out,ul2.accesses,10729677,totalnumberofaccesses
