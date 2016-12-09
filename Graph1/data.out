@@ -1,0 +1,12 @@
+sim_dc1.out,ul2.accesses,12293700,totalnumberofaccesses
+sim_mc1.out,ul2.accesses,11610643,totalnumberofaccesses
+sim_vc1.out,ul2.accesses,11322436,totalnumberofaccesses
+sim_dc2.out,ul2.accesses,857,totalnumberofaccesses
+sim_mc2.out,ul2.accesses,833,totalnumberofaccesses
+sim_vc2.out,ul2.accesses,829,totalnumberofaccesses
+sim_dc3.out,ul2.accesses,468401,totalnumberofaccesses
+sim_mc3.out,ul2.accesses,416578,totalnumberofaccesses
+sim_vc3.out,ul2.accesses,379883,totalnumberofaccesses
+sim_dc5.out,ul2.accesses,146126,totalnumberofaccesses
+sim_mc5.out,ul2.accesses,135773,totalnumberofaccesses
+sim_vc5.out,ul2.accesses,127894,totalnumberofaccesses
